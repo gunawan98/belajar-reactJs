@@ -1,0 +1,14 @@
+.content p.title {
+  margin: 0px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #3d4a6e;
+  margin-bottom: 16px;
+
+}
+
+.content p.desc {
+  margin: 0px;
+  font-size: 16px;
+  color: #4a4a4a;
+}
